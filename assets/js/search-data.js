@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/ashna-homeo/blog/";
               },
-            },{id: "post-a-post-with-plotly-js",
+            },{id: "post-",
+        
+          title: "",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/ashna-homeo/blog/2026/2026-03-09-caring-for-newborn-immunity/";
+          
+        },
+      },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
