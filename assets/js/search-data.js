@@ -72,15 +72,15 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/ashna-homeo/blog/";
               },
-            },{id: "post-",
+            },{id: "post-caring-for-newborn-immunity-insights-from-homeopathy",
         
-          title: "",
+          title: "Caring for Newborn Immunity - Insights from Homeopathy",
         
-        description: "",
+        description: "The early days of life are crucial for building a strong immune system. This article explores newborn immunization and discusses the homeopathic perspective on supporting a baby’s natural immunity and overall well-being.",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/ashna-homeo/blog/2026/2026-03-09-caring-for-newborn-immunity/";
+            window.location.href = "/ashna-homeo/blog/2026/caring-for-newborn-immunity/";
           
         },
       },{id: "post-a-post-with-plotly-js",
