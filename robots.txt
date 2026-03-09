@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://singamandeep.github.io/sitemap.xml
+Sitemap: https://singamandeep.github.io/ashna-homeo//sitemap.xml
